@@ -16,6 +16,8 @@ My model was trained on GTX 1080 .
 
 - unzip, wget (for downloading only)
 
+If you wish to run the .py file follow the below steps or else run the Ipython notebook.
+
 ## Preparation
 Those are the JSON files under the directory `dataset/semeval`.
 

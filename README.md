@@ -51,3 +51,4 @@ python3 eval.py saved_models/01 --dataset test
 ```
 ###### Note:
 The dependency tags created earlier in SemEval dataset was by using Stanford Core NLP. The old version had different tags compared to new one so the earlier dataset has been converted based on the latest version of Stanford Core NLP. 
+

@@ -1,0 +1,299 @@
+# epoch	train_loss
+1	2.261473	
+new best model saved at epoch 1: 2.26
+2	2.237542	
+new best model saved at epoch 2: 2.24
+3	2.030302	
+new best model saved at epoch 3: 2.03
+4	2.030156	
+new best model saved at epoch 4: 2.03
+5	1.705898	
+new best model saved at epoch 5: 1.71
+6	1.507486	
+new best model saved at epoch 6: 1.51
+7	1.365634	
+new best model saved at epoch 7: 1.37
+8	1.267174	
+new best model saved at epoch 8: 1.27
+9	1.157718	
+new best model saved at epoch 9: 1.16
+10	1.122968	
+new best model saved at epoch 10: 1.12
+11	1.072946	
+new best model saved at epoch 11: 1.07
+12	1.015498	
+new best model saved at epoch 12: 1.02
+13	0.972151	
+new best model saved at epoch 13: 0.97
+14	0.959063	
+new best model saved at epoch 14: 0.96
+15	0.908270	
+new best model saved at epoch 15: 0.91
+16	0.887768	
+new best model saved at epoch 16: 0.89
+17	0.865283	
+new best model saved at epoch 17: 0.87
+18	0.851019	
+new best model saved at epoch 18: 0.85
+19	0.839731	
+new best model saved at epoch 19: 0.84
+20	0.819666	
+new best model saved at epoch 20: 0.82
+21	0.804334	
+new best model saved at epoch 21: 0.80
+22	0.803133	
+new best model saved at epoch 22: 0.80
+23	0.789705	
+new best model saved at epoch 23: 0.79
+24	0.787552	
+new best model saved at epoch 24: 0.79
+25	0.766977	
+new best model saved at epoch 25: 0.77
+26	0.729142	
+new best model saved at epoch 26: 0.73
+27	0.745436	
+new best model saved at epoch 27: 0.75
+28	0.689486	
+new best model saved at epoch 28: 0.69
+29	0.660568	
+new best model saved at epoch 29: 0.66
+30	0.658109	
+new best model saved at epoch 30: 0.66
+31	0.663808	
+new best model saved at epoch 31: 0.66
+32	0.611217	
+new best model saved at epoch 32: 0.61
+33	0.595591	
+new best model saved at epoch 33: 0.60
+34	0.582044	
+new best model saved at epoch 34: 0.58
+35	0.577907	
+new best model saved at epoch 35: 0.58
+36	0.549125	
+new best model saved at epoch 36: 0.55
+37	0.579647	
+new best model saved at epoch 37: 0.58
+38	0.529931	
+new best model saved at epoch 38: 0.53
+39	0.515218	
+new best model saved at epoch 39: 0.52
+40	0.503448	
+new best model saved at epoch 40: 0.50
+41	0.493182	
+new best model saved at epoch 41: 0.49
+42	0.510569	
+new best model saved at epoch 42: 0.51
+43	0.467074	
+new best model saved at epoch 43: 0.47
+44	0.456168	
+new best model saved at epoch 44: 0.46
+45	0.444499	
+new best model saved at epoch 45: 0.44
+46	0.443516	
+new best model saved at epoch 46: 0.44
+47	0.430848	
+new best model saved at epoch 47: 0.43
+48	0.421155	
+new best model saved at epoch 48: 0.42
+49	0.429857	
+new best model saved at epoch 49: 0.43
+50	0.408424	
+new best model saved at epoch 50: 0.41
+51	0.398703	
+new best model saved at epoch 51: 0.40
+52	0.392748	
+new best model saved at epoch 52: 0.39
+53	0.376113	
+new best model saved at epoch 53: 0.38
+54	0.375624	
+new best model saved at epoch 54: 0.38
+55	0.378368	
+new best model saved at epoch 55: 0.38
+56	0.339936	
+new best model saved at epoch 56: 0.34
+57	0.340109	
+new best model saved at epoch 57: 0.34
+58	0.339368	
+new best model saved at epoch 58: 0.34
+59	0.322280	
+new best model saved at epoch 59: 0.32
+60	0.327370	
+new best model saved at epoch 60: 0.33
+61	0.300232	
+new best model saved at epoch 61: 0.30
+62	0.306140	
+new best model saved at epoch 62: 0.31
+63	0.284513	
+new best model saved at epoch 63: 0.28
+64	0.279726	
+new best model saved at epoch 64: 0.28
+65	0.267696	
+new best model saved at epoch 65: 0.27
+66	0.265761	
+new best model saved at epoch 66: 0.27
+67	0.272010	
+new best model saved at epoch 67: 0.27
+68	0.248134	
+new best model saved at epoch 68: 0.25
+69	0.239216	
+new best model saved at epoch 69: 0.24
+70	0.242458	
+new best model saved at epoch 70: 0.24
+71	0.235045	
+new best model saved at epoch 71: 0.24
+72	0.213385	
+new best model saved at epoch 72: 0.21
+73	0.222444	
+new best model saved at epoch 73: 0.22
+74	0.202121	
+new best model saved at epoch 74: 0.20
+75	0.199265	
+new best model saved at epoch 75: 0.20
+76	0.200241	
+new best model saved at epoch 76: 0.20
+77	0.202723	
+new best model saved at epoch 77: 0.20
+78	0.193162	
+new best model saved at epoch 78: 0.19
+79	0.178684	
+new best model saved at epoch 79: 0.18
+80	0.180601	
+new best model saved at epoch 80: 0.18
+81	0.157896	
+new best model saved at epoch 81: 0.16
+82	0.176152	
+new best model saved at epoch 82: 0.18
+83	0.173806	
+new best model saved at epoch 83: 0.17
+84	0.164687	
+new best model saved at epoch 84: 0.16
+85	0.158551	
+new best model saved at epoch 85: 0.16
+86	0.150521	
+new best model saved at epoch 86: 0.15
+87	0.155539	
+new best model saved at epoch 87: 0.16
+88	0.148373	
+new best model saved at epoch 88: 0.15
+89	0.149105	
+new best model saved at epoch 89: 0.15
+90	0.141032	
+new best model saved at epoch 90: 0.14
+91	0.144247	
+new best model saved at epoch 91: 0.14
+92	0.136761	
+new best model saved at epoch 92: 0.14
+93	0.135411	
+new best model saved at epoch 93: 0.14
+94	0.133655	
+new best model saved at epoch 94: 0.13
+95	0.131228	
+new best model saved at epoch 95: 0.13
+96	0.139495	
+new best model saved at epoch 96: 0.14
+97	0.134342	
+new best model saved at epoch 97: 0.13
+98	0.134749	
+new best model saved at epoch 98: 0.13
+99	0.126688	
+new best model saved at epoch 99: 0.13
+100	0.123442	
+new best model saved at epoch 100: 0.12
+101	0.129934	
+new best model saved at epoch 101: 0.13
+102	0.123104	
+new best model saved at epoch 102: 0.12
+103	0.121768	
+new best model saved at epoch 103: 0.12
+104	0.126954	
+new best model saved at epoch 104: 0.13
+105	0.122738	
+new best model saved at epoch 105: 0.12
+106	0.118610	
+new best model saved at epoch 106: 0.12
+107	0.123682	
+new best model saved at epoch 107: 0.12
+108	0.105225	
+new best model saved at epoch 108: 0.11
+109	0.114457	
+new best model saved at epoch 109: 0.11
+110	0.107754	
+new best model saved at epoch 110: 0.11
+111	0.113290	
+new best model saved at epoch 111: 0.11
+112	0.108860	
+new best model saved at epoch 112: 0.11
+113	0.102025	
+new best model saved at epoch 113: 0.10
+114	0.098900	
+new best model saved at epoch 114: 0.10
+115	0.104228	
+new best model saved at epoch 115: 0.10
+116	0.099012	
+new best model saved at epoch 116: 0.10
+117	0.102905	
+new best model saved at epoch 117: 0.10
+118	0.100152	
+new best model saved at epoch 118: 0.10
+119	0.107405	
+new best model saved at epoch 119: 0.11
+120	0.096823	
+new best model saved at epoch 120: 0.10
+121	0.099708	
+new best model saved at epoch 121: 0.10
+122	0.096477	
+new best model saved at epoch 122: 0.10
+123	0.098047	
+new best model saved at epoch 123: 0.10
+124	0.097456	
+new best model saved at epoch 124: 0.10
+125	0.089115	
+new best model saved at epoch 125: 0.09
+126	0.090409	
+new best model saved at epoch 126: 0.09
+127	0.091099	
+new best model saved at epoch 127: 0.09
+128	0.093583	
+new best model saved at epoch 128: 0.09
+129	0.084886	
+new best model saved at epoch 129: 0.08
+130	0.092307	
+new best model saved at epoch 130: 0.09
+131	0.091966	
+new best model saved at epoch 131: 0.09
+132	0.087817	
+new best model saved at epoch 132: 0.09
+133	0.084253	
+new best model saved at epoch 133: 0.08
+134	0.084504	
+new best model saved at epoch 134: 0.08
+135	0.092903	
+new best model saved at epoch 135: 0.09
+136	0.081001	
+new best model saved at epoch 136: 0.08
+137	0.091410	
+new best model saved at epoch 137: 0.09
+138	0.090448	
+new best model saved at epoch 138: 0.09
+139	0.087490	
+new best model saved at epoch 139: 0.09
+140	0.086494	
+new best model saved at epoch 140: 0.09
+141	0.080597	
+new best model saved at epoch 141: 0.08
+142	0.083564	
+new best model saved at epoch 142: 0.08
+143	0.085498	
+new best model saved at epoch 143: 0.09
+144	0.089836	
+new best model saved at epoch 144: 0.09
+145	0.087563	
+new best model saved at epoch 145: 0.09
+146	0.089897	
+new best model saved at epoch 146: 0.09
+147	0.082266	
+new best model saved at epoch 147: 0.08
+148	0.085516	
+new best model saved at epoch 148: 0.09
+149	0.088102	
+new best model saved at epoch 149: 0.09
